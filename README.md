@@ -17,10 +17,10 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](http://devy99.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alessandro-giagnorio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:giagna@usi.ch)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=0EiteC8AAAAJ)
+[![Website](https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](http://devy99.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alessandro-giagnorio/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:giagna@usi.ch) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=0EiteC8AAAAJ) 
 
 ![Open to Internships](https://img.shields.io/badge/Open_to-Research_Internships-1a7f37?style=for-the-badge)
 
