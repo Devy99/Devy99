@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:043361,100:337ab7&height=180&section=header&text=Alessandro%20Giagnorio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20%40%20USI%20%C2%B7%20AI4SE%20%C2%B7%20Code%20%Generation%20%C2%B7%20LLM Benchmarks&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:043361,100:337ab7&amp;height=180&amp;section=header&amp;text=Alessandro%20Giagnorio&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=PhD%20Researcher%20%40%20USI%20%C2%B7%20AI4SE%20%C2%B7%20Code%20Generation%20%C2%B7%20LLM%20Benchmarks&amp;descAlignY=58&amp;descSize=18&amp;v=2"
+    width="100%"
+    alt="Alessandro Giagnorio"
+  />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Improving+and+evaluating+LLMs+for+code+generation;LLMs+%C3%97+code+generation+%C3%97+uncommon+programming+languages" alt="typing-svg" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=2C5364&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Improving+and+evaluating+LLMs+for+code+generation%3BLLMs+%C3%97+code+generation+%C3%97+uncommon+programming+languages&amp;v=2"
+    alt="Improving and evaluating LLMs for code generation"
+  />
+</p>
 
 <br/>
 
@@ -180,5 +191,7 @@ Conducted a large-scale empirical study on personalization strategies for deep l
 
 ![Software Analytics](https://img.shields.io/badge/Software_Analytics-6F42C1?style=flat-square)
 ![Reproducible Research](https://img.shields.io/badge/Reproducible_Research-1A7F37?style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:337ab7,100:043361&height=100&section=footer" width="100%"/>
 
 </div>
