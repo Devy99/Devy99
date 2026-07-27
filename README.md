@@ -1,26 +1,12 @@
 <div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:043361,100:337ab7&amp;height=180&amp;section=header&amp;text=Alessandro%20Giagnorio&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=PhD%20Researcher%20%40%20USI%20%C2%B7%20AI4SE%20%C2%B7%20Code%20Generation%20%C2%B7%20LLM%20Benchmarks&amp;descAlignY=58&amp;descSize=18&amp;v=2"
-    width="100%"
-    alt="Alessandro Giagnorio"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:043361,100:337ab7&height=180&section=header&text=Alessandro%20Giagnorio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20%40%20USI%20%C2%B7%20AI4SE%20%C2%B7%20Code%20Generation%20%C2%B7%20LLM%20Benchmarks&descAlignY=58&descSize=18" width="100%" alt="Alessandro Giagnorio"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1200&amp;color=2C5364&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Improving+and+evaluating+LLMs+for+code+generation%3BLLMs+%C3%97+code+generation+%C3%97+uncommon+programming+languages&amp;v=2"
-    alt="Improving and evaluating LLMs for code generation"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Improving+and+evaluating+LLMs+for+code+generation;LLMs+%C3%97+code+generation+%C3%97+uncommon+programming+languages" alt="typing-svg"/>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](http://devy99.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/alessandro-giagnorio/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:giagna@usi.ch) 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=0EiteC8AAAAJ) 
+[![Website](https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devy99.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-giagnorio/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:giagna@usi.ch) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=0EiteC8AAAAJ)
 
 ![Open to Internships](https://img.shields.io/badge/Open_to-Research_Internships-1a7f37?style=for-the-badge)
 
@@ -53,7 +39,7 @@ Over the course of my PhD, I have released open-source datasets, benchmarks, and
 **Alessandro Giagnorio**, Alberto Martin-Lopez, Gabriele Bavota
 <br/>
 
-[![DOI](https://img.shields.io/badge/DOI-10.1109/TSE.2026.3703553-blue?style=plastic)](https://doi.org/10.1109/TSE.2026.3703553)[![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/no-resource-pl-study) [![Dataset](https://img.shields.io/badge/🤗_Benchmarks-FFD21E?style=plastic)](https://huggingface.co/collections/Devy1/no-resource-benchmarks)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FTSE.2026.3703553-blue?style=plastic)](https://doi.org/10.1109%2FTSE.2026.3703553)[![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/no-resource-pl-study) [![Dataset](https://img.shields.io/badge/🤗_Benchmarks-FFD21E?style=plastic)](https://huggingface.co/collections/Devy1/no-resource-benchmarks)
 
 📙 *IEEE Transactions on Software Engineering (TSE)*
 
@@ -128,7 +114,7 @@ Studied post-training quantization for code LLMs. Evaluated memory-performance t
 **Alessandro Giagnorio**, Alberto Martin-Lopez, Gabriele Bavota
 <br/>
 
-[![DOI](https://img.shields.io/badge/DOI-10.1109/ICPC66645.2025.00058-blue?style=plastic)](https://doi.org/10.1109/ICPC66645.2025.00058) [![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/low-resource-study) 
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICPC66645.2025.00058-blue?style=plastic)](https://doi.org/10.1109%2FICPC66645.2025.00058) [![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/low-resource-study) 
 
 🏛️ *33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025)*
 
@@ -148,7 +134,7 @@ Investigated the performance of Large Language Models for code generation on low
 **Alessandro Giagnorio**, Alberto Martin-Lopez, Gabriele Bavota
 <br/>
 
-[![DOI](https://img.shields.io/badge/DOI-10.1145/3725732-blue?style=plastic)](https://doi.org/10.1145/3725732) [![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/comp-personalization) 
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3725732-blue?style=plastic)](https://doi.org/10.1145%2F3725732) [![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/comp-personalization) 
 
 📙 *ACM Transactions on Software Engineering and Methodology (TOSEM)*
 
@@ -168,30 +154,18 @@ Conducted a large-scale empirical study on personalization strategies for deep l
 
 **Languages, Libraries and Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square)
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![Tree-sitter](https://img.shields.io/badge/Tree--sitter-6A9FB5?style=flat-square)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-4B56D2?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square) ![Tree-sitter](https://img.shields.io/badge/Tree--sitter-6A9FB5?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square) ![vLLM](https://img.shields.io/badge/vLLM-4B56D2?style=flat-square)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-![Slurm](https://img.shields.io/badge/Slurm-555555?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) ![Slurm](https://img.shields.io/badge/Slurm-555555?style=flat-square)
 
 
 **Research Expertise**
 
-![Code LLMs and Agents](https://img.shields.io/badge/Code_LLMs_and_Agents-1F6FEB?style=flat-square)
-![Model Training](https://img.shields.io/badge/Model_Training-5A29E4?style=flat-square)
-![Benchmark Evaluation](https://img.shields.io/badge/Benchmark_Evaluation-0969DA?style=flat-square)
-![Empirical Evaluation](https://img.shields.io/badge/Empirical_Evaluation-8250DF?style=flat-square)
+![Code LLMs and Agents](https://img.shields.io/badge/Code_LLMs_and_Agents-1F6FEB?style=flat-square) ![Model Training](https://img.shields.io/badge/Model_Training-5A29E4?style=flat-square) ![Benchmark Evaluation](https://img.shields.io/badge/Benchmark_Evaluation-0969DA?style=flat-square) ![Empirical Evaluation](https://img.shields.io/badge/Empirical_Evaluation-8250DF?style=flat-square)
 
-![Software Analytics](https://img.shields.io/badge/Software_Analytics-6F42C1?style=flat-square)
-![Reproducible Research](https://img.shields.io/badge/Reproducible_Research-1A7F37?style=flat-square)
+![Software Analytics](https://img.shields.io/badge/Software_Analytics-6F42C1?style=flat-square) ![Reproducible Research](https://img.shields.io/badge/Reproducible_Research-1A7F37?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:337ab7,100:043361&height=100&section=footer" width="100%"/>
 
