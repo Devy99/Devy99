@@ -165,7 +165,7 @@ Conducted a large-scale empirical study on personalization strategies for deep l
 
 ![Code LLMs and Agents](https://img.shields.io/badge/Code_LLMs_and_Agents-1F6FEB?style=flat-square) ![Model Training](https://img.shields.io/badge/Model_Training-5A29E4?style=flat-square) ![Benchmark Evaluation](https://img.shields.io/badge/Benchmark_Evaluation-0969DA?style=flat-square) ![Empirical Evaluation](https://img.shields.io/badge/Empirical_Evaluation-8250DF?style=flat-square)
 
-![Software Analytics](https://img.shields.io/badge/Software_Analytics-6F42C1?style=flat-square) ![Reproducible Research](https://img.shields.io/badge/Reproducible_Research-1A7F37?style=flat-square)
+![Software Analytics](https://img.shields.io/badge/Software_Analytics-6F42C1?style=flat-square) ![Reproducible Research](https://img.shields.io/badge/Reproducible_Research-1A7F37?style=flat-square) ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-B31B1B?style=flat-square) 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:337ab7,100:043361&height=100&section=footer" width="100%"/>
 
