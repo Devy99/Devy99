@@ -68,24 +68,6 @@ Researched techniques for improving code completion in the Pharo programming lan
 </tr>
 
 
-<tr>
-<td width="100%">
-
-**[Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization](https://doi.org/10.1145/3794763.3794819)**
-<br/>
-**Alessandro Midolo**, **Alessandro Giagnorio**, Fiorella Zampetti, Rosalia Tufano, Gabriele Bavota, Massimiliano Di Penta
-<br/>
-
-[![DOI](https://img.shields.io/badge/DOI-10.1145/3794763.3794819-blue?style=plastic)](https://doi.org/10.1145/3794763.3794819) [![Artifact](https://img.shields.io/badge/Artifact-181717?style=plastic&logo=zenodo&logoColor=white)](https://zenodo.org/records/17456075) 
-
-🏛️ *34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)* 
-
-Designed an iterative, test-driven pipeline to optimize prompts for LLM-based code generation and improve output accuracy. Derived a comprehensive set of guidelines to help developers and researchers write more effective prompts for code generation tasks. 
-
-</td>
-</tr>
-
-
 
 <tr>
 <td width="100%">
@@ -100,6 +82,25 @@ Designed an iterative, test-driven pipeline to optimize prompts for LLM-based co
 🏛️ *34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)* 
 
 Studied post-training quantization for code LLMs. Evaluated memory-performance trade-offs across multiple quantization levels. Demonstrated that 4-bit precision reduces memory usage by 70% without significant performance loss, while targeted calibration strategies mitigate accuracy degradation at extreme compression levels.
+
+</td>
+</tr>
+
+
+
+<tr>
+<td width="100%">
+
+**[Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization](https://doi.org/10.1145/3794763.3794819)**
+<br/>
+**Alessandro Midolo**, **Alessandro Giagnorio**, Fiorella Zampetti, Rosalia Tufano, Gabriele Bavota, Massimiliano Di Penta
+<br/>
+
+[![DOI](https://img.shields.io/badge/DOI-10.1145/3794763.3794819-blue?style=plastic)](https://doi.org/10.1145/3794763.3794819) [![Artifact](https://img.shields.io/badge/Artifact-181717?style=plastic&logo=zenodo&logoColor=white)](https://zenodo.org/records/17456075) 
+
+🏛️ *34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)* 
+
+Designed an iterative, test-driven pipeline to optimize prompts for LLM-based code generation and improve output accuracy. Derived a comprehensive set of guidelines to help developers and researchers write more effective prompts for code generation tasks. 
 
 </td>
 </tr>
