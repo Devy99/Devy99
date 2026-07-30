@@ -71,12 +71,12 @@ Researched techniques for improving code completion in the Pharo programming lan
 <tr>
 <td width="100%">
 
-**[Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization](https://arxiv.org/abs/2601.13118)**
+**[Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization](https://doi.org/10.1145/3794763.3794819)**
 <br/>
 **Alessandro Midolo**, **Alessandro Giagnorio**, Fiorella Zampetti, Rosalia Tufano, Gabriele Bavota, Massimiliano Di Penta
 <br/>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2601.13118-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.13118)[![Artifact](https://img.shields.io/badge/Artifact-181717?style=plastic&logo=zenodo&logoColor=white)](https://zenodo.org/records/17456075) 
+[![DOI](https://img.shields.io/badge/DOI-10.1145/3794763.3794819-blue?style=plastic)](https://doi.org/10.1145/3794763.3794819) [![Artifact](https://img.shields.io/badge/Artifact-181717?style=plastic&logo=zenodo&logoColor=white)](https://zenodo.org/records/17456075) 
 
 🏛️ *34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)* 
 
@@ -90,12 +90,12 @@ Designed an iterative, test-driven pipeline to optimize prompts for LLM-based co
 <tr>
 <td width="100%">
 
-**[Evaluating the Impact of Post-Training Quantization on Large Language Models for Code Generation](https://arxiv.org/abs/2503.07103)**
+**[Evaluating the Impact of Post-Training Quantization on Large Language Models for Code Generation](https://doi.org/10.1145/3794763.3794810)**
 <br/>
 **Alessandro Giagnorio**, Antonio Mastropaolo, Saima Afrin, Massimiliano Di Penta, Gabriele Bavota
 <br/>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.07103-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.07103)[![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/quantization-study) [![Models](https://img.shields.io/badge/🤗_Quantized_Models-FFD21E?style=plastic)](https://huggingface.co/collections/Devy1/quantization-for-code-generation)
+[![DOI](https://img.shields.io/badge/DOI-10.1145/3794763.3794810-blue?style=plastic)](https://doi.org/10.1145/3794763.3794810) [![Code](https://img.shields.io/badge/Code-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Devy99/quantization-study) [![Models](https://img.shields.io/badge/🤗_Quantized_Models-FFD21E?style=plastic)](https://huggingface.co/collections/Devy1/quantization-for-code-generation)
 
 🏛️ *34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026)* 
 
